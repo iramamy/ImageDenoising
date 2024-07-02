@@ -7,7 +7,7 @@
 This project demonstrates a visualization of image predictions using a trained model. The steps involved are:
 
 1. **Dataset Preparation**:
-   - A dataset of face images is used as the starting point. Data can be downloaded [here]("https://conradsanderson.id.au/lfwcrop/lfwcrop_color.zip").
+   - A dataset of face images is used as the starting point. Data can be downloaded [here](https://conradsanderson.id.au/lfwcrop/lfwcrop_color.zip).
 
 2. **Adding Noise**:
    - Gaussian noise is added to the images to create noisy versions.
