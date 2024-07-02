@@ -1,4 +1,4 @@
-# Image Prediction Visualization
+#  Fully convolutional network for image denoisingn
 
 ## Preview
 
@@ -16,4 +16,12 @@ This project demonstrates a visualization of image predictions using a trained m
    - An encoder-decoder fully convolutional network is created to denoise the images.
 
 
+## Tags
 
+- CNN
+- Keras
+- Image Denoising
+- Gaussian Noise
+- Encoder-Decoder Network
+- Computer Vision
+- Deep Learning
