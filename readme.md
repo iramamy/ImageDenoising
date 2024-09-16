@@ -1,4 +1,4 @@
-#  Fully convolutional network for image denoisingn
+#  Fully convolutional network for image denoising
 
 ## Preview
 
